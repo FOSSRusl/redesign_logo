@@ -4,7 +4,7 @@
 # Mozilla campus club RUSL logo guidelines
 
 # Typography
-Zilla is our core brand identity display typeface. We use it for our wordmark, for headlines and throughout our design. Zilla is an open source font and is available to download.
+Zilla is our core brand identity display typeface. We use it for our wordmark, for headlines and throughout our design. Zilla is an open source font and is available to [download.](https://3u26hb1g25wn1xwo8g186fnd-wpengine.netdna-ssl.com/files/2019/06/Zilla-Slab.zip)
 
 # Color palette
 Mozilla’s main brand colors are black and white. This illustrates our gutsy personality and provides a bold aesthetic to our brand. And our secondary palette is made up of 9 colors — 6 pastels and 3 neons. These colors are used interchangeably to provide contrast and brightness to our bold black and white main color scheme. See palette here.
@@ -14,7 +14,9 @@ Mozilla’s main brand colors are black and white. This illustrates our gutsy pe
 - Warm Red
 - Neon Green
 - Dark Purple
-Images you want to use :  Image 01  image 02  image03
+Images you want to use :[Image 01](https://3u26hb1g25wn1xwo8g186fnd-wpengine.netdna-ssl.com/files/2019/06/Mozilla-logo-BW-RGB.zip)  
+                        [image 02](https://3u26hb1g25wn1xwo8g186fnd-wpengine.netdna-ssl.com/files/2019/06/Onecolorblack.zip)
+                        [image03](https://3u26hb1g25wn1xwo8g186fnd-wpengine.netdna-ssl.com/files/2019/06/Onecolorwhite.zip)
 
 ## FOSS community logo guidelines
 

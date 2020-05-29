@@ -14,9 +14,10 @@ Mozilla’s main brand colors are black and white. This illustrates our gutsy pe
 - Warm Red
 - Neon Green
 - Dark Purple
-Images you want to use :[Image 01](https://3u26hb1g25wn1xwo8g186fnd-wpengine.netdna-ssl.com/files/2019/06/Mozilla-logo-BW-RGB.zip)  
-                        [image 02](https://3u26hb1g25wn1xwo8g186fnd-wpengine.netdna-ssl.com/files/2019/06/Onecolorblack.zip)
-                        [image03](https://3u26hb1g25wn1xwo8g186fnd-wpengine.netdna-ssl.com/files/2019/06/Onecolorwhite.zip)
+Images you want to use :-
+- [Image 01](https://3u26hb1g25wn1xwo8g186fnd-wpengine.netdna-ssl.com/files/2019/06/Mozilla-logo-BW-RGB.zip)  
+- [image 02](https://3u26hb1g25wn1xwo8g186fnd-wpengine.netdna-ssl.com/files/2019/06/Onecolorblack.zip)
+- [image03](https://3u26hb1g25wn1xwo8g186fnd-wpengine.netdna-ssl.com/files/2019/06/Onecolorwhite.zip)
 
 ## FOSS community logo guidelines
 

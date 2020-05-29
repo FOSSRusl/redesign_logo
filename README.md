@@ -1,4 +1,7 @@
-## Mozilla campus club RUSL logo guidelines
+# RE DESIGN LOGO COMPETITION
+
+
+# Mozilla campus club RUSL logo guidelines
 
 # Typography
 Zilla is our core brand identity display typeface. We use it for our wordmark, for headlines and throughout our design. Zilla is an open source font and is available to download.

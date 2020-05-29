@@ -5,11 +5,12 @@ Zilla is our core brand identity display typeface. We use it for our wordmark, f
 
 # Color palette
 Mozilla’s main brand colors are black and white. This illustrates our gutsy personality and provides a bold aesthetic to our brand. And our secondary palette is made up of 9 colors — 6 pastels and 3 neons. These colors are used interchangeably to provide contrast and brightness to our bold black and white main color scheme. See palette here.
-            - Neon Blue
-            - Lemon Yellow
-            - Warm Red
-            - Neon Green
-            - Dark Purple
+
+- Neon Blue
+- Lemon Yellow
+- Warm Red
+- Neon Green
+- Dark Purple
 Images you want to use :  Image 01  image 02  image03
 
 ## FOSS community logo guidelines
@@ -32,9 +33,10 @@ Primary color gradient foss : ( #50BDE8 - #348ECA)
 If you need to any to apply
 
 # Secondary Colors 
-Foss purple #945D9F                           FOSS all black #000000
-Foss shade purple #8774AC           FOSS near black #374659
-Foss pink #EB3B8B              Foss dark grey #646464
-Foss red #D52E37             Foss Mid grey #949494
-Foss orange #F37350            Foss light grey #E4E4E4
-Foss green #3DA52B            Foss almost white #F4F4F4
+
+- Foss purple #945D9F                           - FOSS all black #000000
+- Foss shade purple #8774AC                     - FOSS near black #374659
+- Foss pink #EB3B8B                             - Foss dark grey #646464
+- Foss red #D52E37                              - Foss Mid grey #949494
+- Foss orange #F37350                           - Foss light grey #E4E4E4
+- Foss green #3DA52B                            - Foss almost white #F4F4F4

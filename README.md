@@ -34,9 +34,16 @@ If you need to any to apply
 
 # Secondary Colors 
 
-- Foss purple #945D9F                           - FOSS all black #000000
-- Foss shade purple #8774AC                     - FOSS near black #374659
-- Foss pink #EB3B8B                             - Foss dark grey #646464
-- Foss red #D52E37                              - Foss Mid grey #949494
-- Foss orange #F37350                           - Foss light grey #E4E4E4
-- Foss green #3DA52B                            - Foss almost white #F4F4F4
+- Foss purple #945D9F                          
+- Foss shade purple #8774AC                     
+- Foss pink #EB3B8B                            
+- Foss red #D52E37                              
+- Foss orange #F37350                           
+- Foss green #3DA52B                            
+- FOSS all black #000000
+- FOSS near black #374659
+- Foss dark grey #646464
+- Foss Mid grey #949494
+- Foss light grey #E4E4E4
+- Foss light grey #E4E4E4
+- Foss almost white #F4F4F4
